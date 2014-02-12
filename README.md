@@ -1,7 +1,7 @@
 Helllllllllllllo
 =============
 
-My name is ken.  I am a
+My name is Ken Mazaika.  I am a
 
-* Software Developer
-* Teacher
+* Web Developer
+* Instructor
